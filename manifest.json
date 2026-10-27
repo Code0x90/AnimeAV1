@@ -1,0 +1,17 @@
+{
+  "name": "AnimeAV1",
+  "version": "0.3.7",
+  "scrapers": [
+    {
+      "id": "AnimeAV1",
+      "name": "AnimeAV1",
+      "description": "Fuentes de AnimeAV1 con respaldo local ante fallos técnicos.",
+      "version": "0.3.7",
+      "author": "Custom",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/animeav1.js",
+      "enabled": true,
+      "contentLanguage": ["ja", "es"]
+    }
+  ]
+}

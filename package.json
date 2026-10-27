@@ -1,0 +1,14 @@
+{
+  "name": "animeav1-nuvio-plugin",
+  "version": "0.3.7",
+  "private": true,
+  "description": "Proveedor AnimeAV1 para Nuvio con servicio remoto y respaldo local",
+  "scripts": {
+    "build": "node build.js animeav1",
+    "test": "node --test test/*.test.cjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  },
+  "license": "UNLICENSED"
+}
